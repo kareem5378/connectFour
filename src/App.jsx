@@ -112,7 +112,12 @@ const App = () => {
           width: "fit-content",
         }}
       >
-        <h1>Connect Four</h1>
+        <h1>
+          Connect Four by{" "}
+          <a href="https://github.com/kareem5378" target="blank">
+            Kareem Shaweesh
+          </a>
+        </h1>
 
         <div
           style={{
